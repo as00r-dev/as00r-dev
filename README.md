@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Front End Developer.<br>👯 I’m looking to collaborate on UI/UX and Front End Projects.<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about UI/UX and Front End.<br>⚡ Fun fact: I will never stop learning.
+🔭 I’m currently working as a Front End Developer.<br>👯 I’m looking to collaborate on UI/UX and Front End.<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about UI/UX and Front End.<br>⚡ Fun fact: I will never stop learning.
 
 
 ## 🌐 Socials:
